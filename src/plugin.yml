@@ -1,0 +1,9 @@
+## YAML Template.
+---
+name: Election
+version: 1.0
+main: org.spigotmc.Election
+commands:
+  election:
+    description: Take a vote
+    usage: /election
